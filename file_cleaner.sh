@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory containing files to be archived
-SOURCE="path to sourcedirectory"
+SOURCE="path to source directory"
 
 # Directory to archive old files
 ARCHIVE="path to archive directory"
